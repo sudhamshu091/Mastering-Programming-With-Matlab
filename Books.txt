@@ -1,0 +1,5 @@
+http://cs103.net/buy(Computer Programming with Matlab by Fitzpatrick and Ledeczi)
+Itunes bookstore(https://itunes.apple.com/us/book/computer-programming-matlab/id591606016?mt=13&uo=4)
+Textbook
+Although the lectures are designed to be self-contained, we recommend that students refer to the eBook, Computer Programming with MATLAB by Fitzpatrick and Ledeczi, which was written specifically for the first two courses of the Specialization. While it does not cover everything the second course does, it serves as a handy reference to the material introduced in the first course of the Specialization. The Apple iBooks version of this book is designed for iPads, iPhones, and MacBooks (OS X Mavericks and above) and is available in 51 countries from the iTunes Bookstore. The price is $10. For readers who prefer Windows, Android, or other platforms, and for readers in countries in which Apple textbooks are not sold, a PDF version is available at http://cs103.net/buy/ for the same price. Note that the company that distributes the PDF version of the book is called Gumroad, so that is what will appear on your credit card or PayPal statement.
+
