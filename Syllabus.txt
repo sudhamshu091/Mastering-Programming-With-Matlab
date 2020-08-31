@@ -1,0 +1,30 @@
+Syllabus
+The course builds on the foundation laid by the first course of the Specialization called “Introduction to Programming with MATLAB.” It covers more advanced programming concepts such as recursion, function handles, algorithm efficiency and others. At the same time, it presents many features that make MATLAB a powerful programming environment for engineering and scientific computing, such as  its support for object oriented programming, the new user interface design environment and Live Scripts.
+
+The first course in this Specialization has been very popular for several years. Many students praised the programming assignments, some of which were definitely challenging. Many others complained about them at the same time. We strongly believe that one can only learn programming by doing it. Simply repeating the programming examples shown in the videos with minor changes and calling them programming assignments would be easy enough to do. However, we view programming assignments primarily not as assessment but as part of the learning process. Once you finish the Specialization and try to solve problems in your own studies or work, they will not be the same as you see in these courses. So, you need to learn to solve new and unfamiliar problems. And that is why the assignments in our courses are not easy. This is especially true for this course. It is called "mastering programming" for a reason. The programming assignments and the final project will challenge you. But they will make you a better programmer. To make it a little easier on you, multiple programming assignments are grouped together and you do not have to solve all of them to pass.
+
+The course is divided into the following modules:
+
+Functions Revisited
+
+Functions may very well be the most important abstraction in computer programming. We learned a lot about them in the first course, but here we'll cover some more advanced concepts such as recursion, function handles and nested functions among others.
+
+Potpourri
+
+Quite a few important concepts were left out of the first course due to time constraints. They do not fall neatly into one category, hence, the strange name. They are in no particular order: mixed mode arithmetic, linear equations, and Live Scripts.
+
+How to Write Efficient Programs
+
+Our focus throughout these courses has been on how to solve problems with computer programs. We only cared about the correct result. This lesson focuses on the performance of our programs. It gives a little bit of theoretical background on evaluating the efficiency of algorithms, but we spend most of the time on practical advice on how to write programs that are fast enough for our purposes.
+
+Object Oriented Programming
+
+Object Oriented Programming (OOP) is a very important concept in computer science. MATLAB has full support for OOP. This lesson provides an introduction to OOP in general and then covers MATLAB's OOP features through an extended example.
+
+Applications
+
+The vast majority of computer programs today has Graphical User Interfaces (GUIs). MATLAB has built-in support to help you create modern GUIs for your programs. This lesson will show how to do just that and it will even cover how to make a standalone application that can run even on computers without MATLAB.
+
+Project
+
+The course concludes with a project where you will have to write an object-oriented program with a professional GUI. It is a peer review assignment, so part of your task is to grade other students' projects once you submitted your solution.
