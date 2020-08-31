@@ -1,0 +1,12 @@
+https://drive.matlab.com/sharing/99aabc96-9452-45f9-9c5b-29e6ed886994
+https://www.mathworks.com/help/matlabdrive/ug/install-matlab-drive.html
+Course Files
+For your reference and further exploration, a copy of many of the files created in the lectures is provided. To access the files:
+
+1. Click this link(https://drive.matlab.com/sharing/99aabc96-9452-45f9-9c5b-29e6ed886994) to access the invitation to the files (you must have a MathWorks account.)
+
+2. Accept the invitation to the shared files. If you're using MATLAB Online, your done! Log in to MATLAB Online and the files will be there.
+
+3. If you have an installed version of MATLAB, start MATLAB and install MATLAB Drive Connector(https://www.mathworks.com/help/matlabdrive/ug/install-matlab-drive.html) to sync the shared files to your computer. This will create a MATLAB Drive folder on your computer that will sync to MATLAB Drive cloud storage. You can access your files on your computer, in MATLAB Online, or in MATLAB Mobile.
+
+The files are read-only. You can run them and view the code. If you want to edit the files, make a copy.
