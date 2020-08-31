@@ -2,6 +2,6 @@ How to Get MATLAB
 As a result of support from MathWorks, a license to MATLAB Online for the duration of the course is available. MATLAB Online gives you access to MATLAB directly from your browser on a computer with internet access. To get started using MATLAB Online: 
 
 If you do not already have a MathWorks account, create one here: https://www.mathworks.com/mwaccount/register. Be sure to verify your email (check your Junk/Spam folders) before moving on to step 2. 
-Set up your MathWorks account with MATLAB Online access by signing in using the course license. 
+Set up your MathWorks account with MATLAB Online access by signing in using the course license. (https://www.mathworks.com/licensecenter/classroom/adv_matlab_prog)
 After using the link in step 2 to login in MATLAB Online for the first time, bookmark matlab.mathworks.com to use MATLAB Online during the course. 
 MATLAB Online is supported in Chrome, Firefox, and Safari. 
