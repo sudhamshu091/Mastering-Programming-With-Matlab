@@ -25,8 +25,7 @@ function w=palindrome(v)
     if s==1
         w=true;
     elseif s==0
-        w=true;
-    a=convertStringsToChars(v);    
+        w=true;   
     else 
         if a(1) ~= a(end)
             w=false;
