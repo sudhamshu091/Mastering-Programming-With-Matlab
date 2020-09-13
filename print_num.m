@@ -1,5 +1,5 @@
 function out = print_num(format,varargin)
-    out = '';
+    out = ' ';
     argindex = 1;
     skip = false;
     for ii = 1:length(format)
