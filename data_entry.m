@@ -1,7 +1,7 @@
-In a voting center, the voters are required to give their names and ID numbers to the voting staff before going into voting room.Write a function called voters to record the
-incoming voter's information. The function should take an unspecified number of inputs, but the first inputwill be the current database. The rest of the arguments must come in the 
-order of name, a string or char array, and ID, an integer or integer valued double. If there is atleast one occurance of no ID number after a name, or the data types are not what's 
-required, return the original database. The function should return a struct array containing Name (a string) and ID (a double) fields as shown below.
+%In a voting center, the voters are required to give their names and ID numbers to the voting staff before going into voting room.Write a function called voters to record the
+%incoming voter's information. The function should take an unspecified number of inputs, but the first inputwill be the current database. The rest of the arguments must come in the 
+%order of name, a string or char array, and ID, an integer or integer valued double. If there is atleast one occurance of no ID number after a name, or the data types are not what's 
+%required, return the original database. The function should return a struct array containing Name (a string) and ID (a double) fields as shown below.
 
 >>>database = voters([], 'Brandon', 12356)
 database = 
