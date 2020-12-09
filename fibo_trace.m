@@ -1,6 +1,3 @@
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 function [f, trace] = fibo_trace(n, trace)
     trace = [trace,n]; 
     if n<=2
