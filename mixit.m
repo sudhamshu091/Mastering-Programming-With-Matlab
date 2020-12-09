@@ -1,4 +1,7 @@
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function v = mixit(M,N)
 	if size(M,2) ~= length(N)
 		v = [];
@@ -7,6 +10,7 @@ function v = mixit(M,N)
 		M = 2*double(M)/(2^16-1)-1;
 		v = M*N;
 		if max(abs(v)) > 1;
+		v = v/max(abs(v));
 		end
 	end
 end
