@@ -1,0 +1,12 @@
+1.
+Question 1
+How is a Live Script different from a regular script?
+Ans:A Live Script combines regular text and MATLAB code. It allows the user to create a nicely formatted document with embedded code and the output of the code such as plots.
+2.
+Question 2
+What are the parts that make up a Live Script called?
+Ans:Sections
+3.
+Question 3
+What is the file extension of Live Scripts?
+Ans:mlx
