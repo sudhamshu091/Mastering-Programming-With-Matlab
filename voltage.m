@@ -14,7 +14,8 @@
 %R2 = 0 makes A = 0. Same for R4 and R6 for B and C, respectively.
 %If R1/R2 = R3/R4 = R5/R6 then A,B and C will be at the samelevel independent of R7 and R8.
 
-<a href="google.com"></a>
+%Image = "https://github.com/sudhamshu091/Mastering-Programming-With-Matlab/blob/master/voltage.jpg"
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function sol = voltage(V,R)
