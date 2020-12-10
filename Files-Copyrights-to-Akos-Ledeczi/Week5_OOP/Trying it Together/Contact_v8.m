@@ -1,4 +1,4 @@
-classdef Contact < LinkedNode       % Contact_v9
+classdef Contact < LinkedNode       % Contact_v8
     properties
         FirstName   (1,1) string 
         LastName    (1,1) string 
@@ -22,11 +22,9 @@ classdef Contact < LinkedNode       % Contact_v9
         end
         function set.LastName(obj,lname)
             obj.LastName = lname;
-            obj.reposition();
         end
         function set.FirstName(obj,fname)
             obj.FirstName = fname;
-            obj.reposition();
         end
         function set.PhoneNumber(obj,phone)
             obj.PhoneNumber = phone;
