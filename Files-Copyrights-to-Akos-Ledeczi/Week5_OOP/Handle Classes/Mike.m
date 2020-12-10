@@ -1,4 +1,4 @@
-classdef Akos < handle
+classdef Mike
     properties
         card = 'Jack of Spades'
     end   
