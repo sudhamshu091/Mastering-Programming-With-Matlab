@@ -1,4 +1,4 @@
-classdef DList < handle       % DList_v6
+classdef DList < handle       % DList_v5
     properties (Access = protected)
         Head
         Tail
@@ -61,10 +61,10 @@ classdef DList < handle       % DList_v6
             node.Owner = [];
         end % remove
                 
-        function disp(list)
+        function displayList(list)
             item = list.Head;
             while ~isempty(item)
-                item.disp();
+                item.disp
                 item = item.Next;
             end
         end

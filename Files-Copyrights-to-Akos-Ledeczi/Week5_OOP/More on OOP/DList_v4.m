@@ -1,4 +1,4 @@
-classdef DList < handle       % DList_v6
+classdef DList < handle       % DList_v4
     properties (Access = protected)
         Head
         Tail
@@ -14,13 +14,7 @@ classdef DList < handle       % DList_v6
             list.Tail = [];
             list.Length = 0;
         end
-                
-        function delete(list)
-            while ~isempty(list.Head)
-                list.Head.delete();
-            end
-        end
-              
+        
         function insert(list,node)
             if ~isempty(node.Owner)
                 if node.Owner ~= list           % New node is in another list, 
@@ -61,10 +55,10 @@ classdef DList < handle       % DList_v6
             node.Owner = [];
         end % remove
                 
-        function disp(list)
+        function displayList(list)
             item = list.Head;
             while ~isempty(item)
-                item.disp();
+                item.disp
                 item = item.Next;
             end
         end

@@ -64,7 +64,7 @@ classdef DList < handle       % DList_v6
         function disp(list)
             item = list.Head;
             while ~isempty(item)
-                item.disp();
+                item.disp
                 item = item.Next;
             end
         end
