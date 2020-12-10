@@ -22,9 +22,6 @@ classdef Contact
         function obj = set.PhoneNumber(obj,phone)
             obj.PhoneNumber = string(phone);
         end
-        function printName(obj)
-            fprintf('%s %s\n',obj.FirstName,obj.LastName)
-        end
     end
 end
 
